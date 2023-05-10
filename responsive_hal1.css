@@ -1,0 +1,173 @@
+@media only screen and (max-width: 1480px) {
+    .box2 img {
+        height: 230px;
+    }
+}
+
+@media only screen and (max-width: 1456px) {
+    .search__input {
+        width: 40em;
+    }
+
+    .card img {
+        height: 200px;
+    }
+
+    .iklan img {
+        height: 250px;
+    }
+}
+
+@media only screen and (max-width: 1375px) {
+    .search__input {
+        width: 35em;
+    }
+
+    .card img {
+        height: 180px;
+    }
+
+    .box2 img {
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .search__input {
+        width: 30em;
+    }
+
+    .iklan img {
+        height: 200px;
+    }
+
+    .card img {
+        height: 160px;
+    }
+
+    .box2 img {
+        height: 180px;
+    }
+
+    .box,
+    .box i {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 1215px) {
+    .search__input {
+        width: 25em;
+    }
+
+    .box,
+    .box i {
+        font-size: 14px;
+    }
+
+    .kelebihan {
+        padding: 16px 24px;
+
+    }
+}
+
+@media only screen and (max-width: 1135px) {
+    .search__input {
+        width: 20em;
+    }
+
+    .kategori {
+        grid-template-columns: auto auto auto auto;
+    }
+
+    .card img {
+        height: 180px;
+    }
+
+    .box2 img {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    .logo img {
+        height: 60px;
+    }
+
+    .search__input {
+        width: 18em;
+    }
+
+    .iklan img {
+        height: 160px;
+    }
+
+    .produk h1 {
+        font-size: 24px;
+    }
+
+    main h1 {
+        font-size: 24px;
+    }
+
+    .grid {
+        grid-template-columns: auto auto auto;
+    }
+
+    .box2 img {
+        height: 250px;
+    }
+
+    .kelebihan {
+        display: grid;
+        row-gap: 24px;
+        justify-content: center;
+    }
+
+    .box,
+    .box i {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .button {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+
+    .top-nav a {
+        font-size: 12px;
+    }
+
+    .card img {
+        height: 150px;
+    }
+
+    .box2 img {
+        height: 230px;
+    }
+
+    .search__input {
+        width: 14em;
+        height: 14px;
+    }
+
+    .fa-cart-shopping {
+        font-size: 16px;
+    }
+
+    .logo img {
+        height: 50px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .kategori {
+        grid-template-columns:  auto auto;
+    }
+
+    .card img {
+        height: 300px;
+    }
+}
